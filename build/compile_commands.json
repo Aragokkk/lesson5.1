@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/GeekBrains/L2/lesson5/build",
+  "command": "D:/GeekBrains/LLVM/bin/clang++.exe   -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles/test.dir/main.cpp.obj -c D:/GeekBrains/L2/lesson5/main.cpp",
+  "file": "D:/GeekBrains/L2/lesson5/main.cpp"
+},
+{
+  "directory": "D:/GeekBrains/L2/lesson5/build",
+  "command": "D:/GeekBrains/LLVM/bin/clang++.exe   -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles/test.dir/foo.cpp.obj -c D:/GeekBrains/L2/lesson5/foo.cpp",
+  "file": "D:/GeekBrains/L2/lesson5/foo.cpp"
+}
+]
